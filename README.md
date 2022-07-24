@@ -9,8 +9,8 @@
 --Playwright automation test is in file:
     -app.spec.js
 
---to run test:
+--to run test use:
     -npx playwright test
 
---to run the test report: 
+--to run the test report use:
     -npx playwright show-report
