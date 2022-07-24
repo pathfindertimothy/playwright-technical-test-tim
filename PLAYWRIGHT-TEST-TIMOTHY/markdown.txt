@@ -1,0 +1,10 @@
+The following are the bugs found:
+
+
+--Didcomm page
+    -mentioned links are missing
+    -'edit this page' link is broken and throwing 404
+
+--Self sovereign identity page
+    -'edit this page' link is broken and throwing 404
+    -there should be link at the bottom of the last paragraph to back to Didcomm like the first two pages
