@@ -8,6 +8,8 @@
 
 --Playwright automation test is in file:
     -app.spec.js
+    
+--Bugs discovered are written in file: markdown.txt
 
 --to run test use:
     -npx playwright test
