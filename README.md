@@ -12,5 +12,5 @@
 --to run test:
     -npx playwright test
 
---to run the test report
+--to run the test report: 
     -npx playwright show-report
